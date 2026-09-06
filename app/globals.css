@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+body {
+  position: relative;
+}
+
+.root {
+  isolation: isolate;
+  min-height: 100dvh;
+}

@@ -2,6 +2,8 @@
 
 Read sources and connect highlighted passages into linked concepts.
 
+The shared Postgres is documented in [schema.md](schema.md) (readable) and [schema.sql](schema.sql) (the DDL). Both apps use that database; do not recreate it.
+
 ## Language
 
 **Passage**:
